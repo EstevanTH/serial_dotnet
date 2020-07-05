@@ -1,0 +1,8 @@
+Dev
+Debug
+Release
+__pycache__
+.vs
+*.lnk
+*.vcxproj.user
+*.pyd

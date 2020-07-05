@@ -1,0 +1,8 @@
+*.md text eol=crlf
+LICENSE text eol=lf
+*.py text eol=crlf
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.filters text eol=crlf
